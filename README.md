@@ -21,6 +21,7 @@ The project consists of the following files:
   - **Hammer**: Draws cracks on the canvas.
   - **Chainsaw**: Creates cuts on the canvas.
   - **Termites**: Spawns animated termites that move around the canvas.
+- **Sound**: Sound effect for interactive exp
 
 ## How to Run the Application
 1. Clone the repository or download the project files.
